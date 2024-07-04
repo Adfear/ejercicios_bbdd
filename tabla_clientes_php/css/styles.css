@@ -1,0 +1,15 @@
+#tabla {
+    margin-top: 30px;
+   
+}
+#titulo{
+    margin-top: 20px;
+    text-align: center;
+}
+
+#formulario{
+
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}

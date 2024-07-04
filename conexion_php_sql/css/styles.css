@@ -1,0 +1,19 @@
+#tabla {
+  margin-top: 30px;
+
+}
+
+#tittle {
+  margin-top: 20px;
+  text-align: center;
+}
+
+nav {
+  display: inline-block;
+  text-align: center;
+}
+
+nav li {
+  display: block;
+  margin-bottom: 10px;
+}
